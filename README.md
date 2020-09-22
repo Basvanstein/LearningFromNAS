@@ -1,5 +1,8 @@
-# LearningFromNAS
-Code and results accompanying the Learning from Neural Architecture Search paper submitted to SSCI 2020.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4043005.svg)](https://doi.org/10.5281/zenodo.4043005)
+
+# Neural Network Design: Learning from Neural Architecture Search
+
+Code and results accompanying the Learning from Neural Architecture Search paper accepted at SSCI 2020.
 
 
 
